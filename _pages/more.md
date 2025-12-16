@@ -6,7 +6,46 @@ author_profile: true
 
 ---
 
-- **I love making stuff with my own hands.**
+- **I enjoy traveling—mostly for landscapes, museums, and long walks with a notebook.**
+  - Here are some photos I took before:
+<div style="margin-left:20px; text-align: center;">
+    <figure style="display:inline-block; margin:10px; text-align:center;">
+      <img src="/images/IMG_9623.HEIC" style="width:200px; display:block; margin:auto;"/>
+    </figure>
+
+  <figure style="display:inline-block; margin:10px; text-align:center;">
+    <img src="/images/IMG_9620.HEIC" style="width:200px; display:block; margin:auto;"/>
+  </figure>
+
+  <figure style="display:inline-block; margin:10px; text-align:center;">
+    <img src="/images/IMG_3543.HEIC" style="width:200px; display:block; margin:auto;"/>
+  </figure>
+
+  <figure style="display:inline-block; margin:10px; text-align:center;">
+    <img src="/images/IMG_2759.HEIC" style="width:200px; display:block; margin:auto;"/>
+  </figure>
+
+  <figure style="display:inline-block; margin:10px; text-align:center;">
+    <img src="/images/IMG_8294.HEIC" style="width:200px; display:block; margin:auto;"/>
+  </figure>
+  
+  <figure style="display:inline-block; margin:10px; text-align:center;">
+    <img src="/images/IMG_1704.HEIC" style="width:200px; display:block; margin:auto;"/>
+  </figure>
+
+  <figure style="display:inline-block; margin:10px; text-align:center;">
+    <img src="/images/IMG_4598.JPG" style="width:200px; display:block; margin:auto;"/>
+  </figure>
+
+  <figure style="display:inline-block; margin:10px; text-align:center;">
+    <img src="/images/IMG_2248.JPG" style="width:200px; display:block; margin:auto;"/>
+  </figure>
+  
+  <figure style="display:inline-block; margin:10px; text-align:center;">
+    <img src="/images/IMG_4904.HEIC" style="width:200px; display:block; margin:auto;"/>
+  </figure>
+  
+</div>
 
   - Back in undergrad, I studied Mechanical Engineering and worked on lots of fun projects, like train coupler, and even made two science exhibits that ended up on display at the China Science and Technology Museum! I’ve got some photos of them [here](/files/Fun_projects.pdf). 
 
