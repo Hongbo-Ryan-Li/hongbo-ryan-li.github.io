@@ -11,6 +11,15 @@ My research insterest lies broadly in stochastic approximation, MCMC, optimizati
 - **Zero-Order Langevin Monte Carlo via SPSA under Noisy Function Measurements** 1/10-current
   - <span style="font-weight:bold; text-decoration:underline;">H. Li</span>, J. Spall, manuscript in final polish
   - Supervised by Prof. James Spall, Johns Hopkins University
+<div style="margin-left:20px; text-align: center;">
+    <figure style="display:inline-block; margin:10px; text-align:center;">
+      <img src="/images/big1new.png" style="width:200px; display:block; margin:auto;"/>
+    </figure>
+  
+  <figure style="display:inline-block; margin:10px; text-align:center;">
+    <img src="/images/big3new.png" style="width:200px; display:block; margin:auto;"/>
+  </figure>
+
   - Motivation & method: Bridged gradient-based samplers and gradient-inaccessible settings in practice (simulation- based inference, model-free reinforcement learning, and stochastic control) by proposing Langevin Monte Carlo- Simultaneous Perturbation Stochastic Approximation (LMC-SPSA) in noisy settings-gradient-free Langevin sampler with only two noisy function queries per iteration (dimension-independent)
   - Convergence: Proved Wasserstein-2 convergence of LMC-SPSA under noise and resolved open step size question by deriving diminishing-step size window ensuring convergence, extending prior constant-step size analysis
   - Sharper dimension dependence: Improved the theoretical dominant dimension dependence of the Wasserstein-2 error bound under standard smoothness/noise conditions, with numerical results supporting the theory
