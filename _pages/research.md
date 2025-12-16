@@ -6,10 +6,10 @@ author_profile: true
 
 ---
 
-My research insterest lies broadly in machine learning, optimization, statistics. Previously, I also conducted research in robotics.
+My research insterest lies broadly in stochastic approximation, MCMC, optimization, and machine learning.
 
-- **Geometric Machine Learning** 4/25-current
-  - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, E. Levin, M. Diaz, Any-dimensional Invariant Universality, Master's Thesis, Johns Hopkins University, [\[paper\]](/files/paper/Master_s_Thesis_Shengtai.pdf)
+- **Zero-Order Langevin Monte Carlo via SPSA under Noisy Function Measurements** 1/10-current
+  - <span style="font-weight:bold; text-decoration:underline;">H. Li</span>, J. Spall, [\[paper\]]manuscript in final polish; planned submission in Dec 2025
 
 ---
 
