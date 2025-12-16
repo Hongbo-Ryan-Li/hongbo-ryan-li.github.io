@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-- **I enjoy traveling—mostly for landscapes, museums, and long walks with a notebook.**
+- **I enjoy traveling and photographing landscapes—from deserts and pyramids to mountains and open skies—always looking for new places that spark curiosity and perspective.**
   - Here are some photos I took before:
 <div style="margin-left:20px; text-align: center;">
     <figure style="display:inline-block; margin:10px; text-align:center;">
