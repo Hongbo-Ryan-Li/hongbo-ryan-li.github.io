@@ -11,13 +11,13 @@ My research insterest lies broadly in stochastic approximation, MCMC, optimizati
 - **Zero-Order Langevin Monte Carlo via SPSA under Noisy Function Measurements** 1/10-current
   - <span style="font-weight:bold; text-decoration:underline;">H. Li</span>, J. Spall, manuscript in final polish
   - Supervised by Prof. James Spall, Johns Hopkins University
-<div style="margin-left:20px; text-align: center;">
-    <figure style="display:inline-block; margin:10px; text-align:center;">
-      <img src="/images/big1new.png" style="width:200px; display:block; margin:auto;"/>
-    </figure>
-  
-  <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="/images/big3new.png" style="width:200px; display:block; margin:auto;"/>
+<div style="margin-left:20px; text-align:center;">
+  <figure style="display:inline-block; margin:10px; width:45%; max-width:520px; text-align:center;">
+    <img src="/images/big1new.png" style="width:100%; height:auto; display:block; margin:auto;"/>
+  </figure>
+
+  <figure style="display:inline-block; margin:10px; width:45%; max-width:520px; text-align:center;">
+    <img src="/images/big3new.png" style="width:100%; height:auto; display:block; margin:auto;"/>
   </figure>
 </div>
 
