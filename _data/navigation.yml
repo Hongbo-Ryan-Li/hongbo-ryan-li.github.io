@@ -17,12 +17,14 @@ main:
     
   - title: "Curriculum Vitae"
     url: /files/final-26Fall-PhD-Hongbo Li-CV.pdf
+
+  - title: "Teaching"
+    url: /teaching/  
     
   - title: "More"
     url: /more/
 
-  - title: "Teaching"
-    url: /teaching/
+  
 
         
   # - title: "Blog"
