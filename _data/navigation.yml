@@ -20,6 +20,10 @@ main:
     
   - title: "More"
     url: /more/
+
+  - title: "Teaching"
+    url: /teaching/
+
         
   # - title: "Blog"
   #   url: /blog/
