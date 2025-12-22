@@ -34,4 +34,4 @@ author_profile: true
 
 
 
- I love exploring new hobbies and making new friends. If you ever feel like chatting, just drop me an email!
+ I love exploring new hobbies and making new friends. If you ever feel like chatting, just shoot me an email!
