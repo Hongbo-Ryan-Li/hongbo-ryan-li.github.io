@@ -16,7 +16,8 @@ main:
     url: /research/
     
   - title: "Curriculum Vitae"
-    url: /files/final-26Fall-PhD-Hongbo Li-CV.pdf
+    #url: /files/final-26Fall-PhD-Hongbo Li-CV.pdf
+    url: /files/jan 31-final-26Fall-PhD-Hongbo Li-CV.pdf
 
   - title: "Teaching"
     url: /teaching/  
