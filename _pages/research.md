@@ -24,10 +24,9 @@ My research insterest lies broadly in stochastic approximation, MCMC, optimizati
     <img src="/images/jan 24 average simulation.png" style="width:100%; height:auto; display:block; margin:auto;"/>
   </figure>
 </div>
-  - Motivation & method: Bridged gradient-based samplers and gradient-inaccessible settings in practice (simulation- based inference, model-free reinforcement learning, and stochastic control) by proposing Langevin Monte Carlo- Simultaneous Perturbation Stochastic Approximation (LMC-SPSA) in noisy settings-gradient-free Langevin sampler with only two noisy function queries per iteration (dimension-independent)
-  - Convergence: Proved Wasserstein-2 convergence of LMC-SPSA under noise and resolved open step size question by deriving diminishing-step size window ensuring convergence, extending prior constant-step size analysis
-  - Sharper dimension dependence: Improved the theoretical dominant dimension dependence of the Wasserstein-2 error bound under standard smoothness/noise conditions, with numerical results supporting the theory
-  - Empirical results under equal budgets: LMC-SPSA attains the lowest, most stable MSE and moment errors (mean/variance/kurtosis), outperforming LMC-Finite Difference Stochastic Approximation and LMC-Random direction Stochastic Approximation
+  - **Motivation & method:** Bridged gradient-based samplers and gradient-inaccessible settings in practice (simulation- based inference, model-free reinforcement learning, and stochastic control) by proposing Langevin Monte Carlo- Simultaneous Perturbation Stochastic Approximation (LMC-SPSA) in noisy settings-gradient-free Langevin sampler with only two noisy function queries per iteration (dimension-independent)
+  - **Convergence:** Proved Wasserstein-2 convergence of LMC-SPSA under noise and resolved open step size question by deriving diminishing-step size window ensuring convergence, extending prior constant-step size analysis
+  - **Sharper dimension dependence:** Improved the theoretical dominant dimension dependence of the Wasserstein-2 error bound under standard smoothness/noise conditions, with numerical results supporting the theory
   - **Roy baseline comparison (fair calls):** We compare LMC-SPSA with Roy et al.’s ZO-LMC under the same **measurement-call** budget, and achieve improved **total-call complexity**.
 
   - **Vanishing \(W_2\) guarantee:** We design diminishing schedules \((h_k,c_k)\) such that the \(W_2\) error bound **shrinks to zero** as \(k \to \infty\).
