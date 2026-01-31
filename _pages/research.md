@@ -41,9 +41,9 @@ My research insterest lies broadly in stochastic approximation, MCMC, optimizati
     <img src="/images/finbert.jpg" style="width:100%; height:auto; display:block; margin:auto;"/>
   </figure>
 </div>
-  - Motivation & method: Applied few-shot in-context labeling with gold examples to generate weak labels at scale, using consistency voting and confidence filtering for denoising; then fine-tuned FinBERT (LoRA) with temporal splits and probability calibration. The fine-tuned model outperformed the baseline FinBERT in accuracy
-  - Multi-ticker disambiguation: Designed three datasets for multi-ticker articles (single-ticker, most-mentioned, and mention-share weighting); most-mentioned gave the highest accuracy and strongest 2-day Granger-prediction
-  - Exploratory identification: Applied Difference-in-Differences around pre-specified shocks and Regression Discontinuity Design at set thresholds, uncovering potential causality between sentiment factors and stock returns
+  - **Motivation & method:** Applied few-shot in-context labeling with gold examples to generate weak labels at scale, using consistency voting and confidence filtering for denoising; then fine-tuned FinBERT (LoRA) with temporal splits and probability calibration. The fine-tuned model outperformed the baseline FinBERT in accuracy
+  - **Multi-ticker disambiguation:** Designed three datasets for multi-ticker articles (single-ticker, most-mentioned, and mention-share weighting); most-mentioned gave the highest accuracy and strongest 2-day Granger-prediction
+  - **Exploratory identification:** Applied Difference-in-Differences around pre-specified shocks and Regression Discontinuity Design at set thresholds, uncovering potential causality between sentiment factors and stock returns
 
 
 ---
