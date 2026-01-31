@@ -31,6 +31,7 @@ My research insterest lies broadly in stochastic approximation, MCMC, optimizati
 
   - **Vanishing \(W_2\) guarantee:** We design diminishing schedules \((h_k,c_k)\) such that the \(W_2\) error bound **shrinks to zero** as \(k \to \infty\).
 
+---
 
 
 - **Fine-tuning FinBERT with Few-Shot Weak Supervision for Financial News Sentiment** 8/24-2/25
