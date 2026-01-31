@@ -13,11 +13,15 @@ My research insterest lies broadly in stochastic approximation, MCMC, optimizati
   - Supervised by Prof. James Spall, Johns Hopkins University
 <div style="margin-left:20px; text-align:center;">
   <figure style="display:inline-block; margin:10px; width:45%; max-width:520px; text-align:center;">
-    <img src="/images/big1new.png" style="width:100%; height:auto; display:block; margin:auto;"/>
+    <img src="/images/jan 24,roy-spsa 1.png" style="width:100%; height:auto; display:block; margin:auto;"/>
   </figure>
 
   <figure style="display:inline-block; margin:10px; width:45%; max-width:520px; text-align:center;">
-    <img src="/images/big3new.png" style="width:100%; height:auto; display:block; margin:auto;"/>
+    <img src="/images/Jan 24 roy-spsa 3.png" style="width:100%; height:auto; display:block; margin:auto;"/>
+  </figure>
+  
+  <figure style="display:inline-block; margin:10px; width:45%; max-width:520px; text-align:center;">
+    <img src="/images/jan 24 average simulation.png" style="width:100%; height:auto; display:block; margin:auto;"/>
   </figure>
 </div>
   - Motivation & method: Bridged gradient-based samplers and gradient-inaccessible settings in practice (simulation- based inference, model-free reinforcement learning, and stochastic control) by proposing Langevin Monte Carlo- Simultaneous Perturbation Stochastic Approximation (LMC-SPSA) in noisy settings-gradient-free Langevin sampler with only two noisy function queries per iteration (dimension-independent)
