@@ -24,6 +24,10 @@ My research insterest lies broadly in stochastic approximation, MCMC, optimizati
   - Convergence: Proved Wasserstein-2 convergence of LMC-SPSA under noise and resolved open step size question by deriving diminishing-step size window ensuring convergence, extending prior constant-step size analysis
   - Sharper dimension dependence: Improved the theoretical dominant dimension dependence of the Wasserstein-2 error bound under standard smoothness/noise conditions, with numerical results supporting the theory
   - Empirical results under equal budgets: LMC-SPSA attains the lowest, most stable MSE and moment errors (mean/variance/kurtosis), outperforming LMC-Finite Difference Stochastic Approximation and LMC-Random direction Stochastic Approximation
+  - **Roy baseline comparison (fair calls):** We compare LMC-SPSA with Roy et al.’s ZO-LMC under the same **measurement-call** budget, and achieve improved **total-call complexity**.
+
+  - **Vanishing \(W_2\) guarantee:** We design diminishing schedules \((h_k,c_k)\) such that the \(W_2\) error bound **shrinks to zero** as \(k \to \infty\).
+
 
 
 - **Fine-tuning FinBERT with Few-Shot Weak Supervision for Financial News Sentiment** 8/24-2/25
