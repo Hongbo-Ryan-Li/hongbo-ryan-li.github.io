@@ -8,6 +8,34 @@ author_profile: true
 
 My research insterest lies broadly in Stochastic approximation, Computational algorithms in optimization, Monte Carlo methods, Statistical machine learning, Reinforcement learning, and Bayesian computation
 
+### Zeroth-Order Langevin Monte Carlo via SPSA under Noisy Function Measurements  
+*Jan 2025–Present*  
+Supervised by Prof. James C. Spall, Johns Hopkins University
+
+**Publications**
+- **Hongbo Li** and James C. Spall.  
+  *Zeroth-Order Langevin Monte Carlo via SPSA under Noisy Function Measurements.*  
+  Journal manuscript in final preparation.
+
+- **Hongbo Li** and James C. Spall.  
+  *Zeroth-Order Langevin Sampling for Bayesian Applications.*  
+  Manuscript under review, 2026.
+
+**Theoretical development**
+- **Convergence:** Proved Wasserstein-2 convergence of LMC-SPSA under noise and derived diminishing step-size schedules ensuring convergence.
+- **Sharper dimension dependence:** Improved dominant dimension dependence of the Wasserstein-2 error bound from quartic to quadratic.
+- **Sharper oracle complexity:** Reduced noisy-oracle complexity relative to Roy et al.’s zeroth-order LMC method.
+- **Theory-guided shrinking schedule:** Derived coupled diminishing step-size and perturbation schedules for LMC-SPSA.
+- **Budget-matched numerical validation:** Conducted oracle-call-matched experiments showing lower and more stable sampling errors.
+
+**Bayesian applications and empirical evaluation**
+- **Black-box Bayesian sampling:** Adapted LMC-SPSA to posterior sampling settings where gradients are unavailable.
+- **Empirical evaluation:** Designed fixed-budget experiments on Bayesian MNIST 3-vs-8 classification and UCI Energy Efficiency regression, showing stronger predictive performance than RWMH and diagonal adaptive Metropolis.
+
+
+
+
+
 - **Zero-Order Langevin Monte Carlo via SPSA under Noisy Function Measurements** Jan 2025--Present
   - <span style="font-weight:bold; text-decoration:underline;">Hongbo Li</span>, James C. Spall, *Zeroth-Order Langevin Monte Carlo via SPSA under Noisy Function Measurements.*  
 Journal manuscript in final preparation.
