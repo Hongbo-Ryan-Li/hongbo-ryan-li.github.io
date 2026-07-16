@@ -22,6 +22,15 @@ Supervised by Prof. James C. Spall, Johns Hopkins University
   Manuscript under review, 2026.
   
 **Motivation & method:** Bridged gradient-based samplers and gradient-inaccessible settings in practice (simulation- based inference, model-free reinforcement learning, and stochastic control) by proposing Langevin Monte Carlo-Simultaneous Perturbation Stochastic Approximation (LMC-SPSA) in noisy settings-gradient-free Langevin sampler with only two noisy function queries per iteration (dimension-independent)
+<div style="margin-left:20px; text-align:center;">
+  <figure style="display:inline-block; margin:10px; width:45%; max-width:520px; text-align:center;">
+    <img src="/images/energy_poly_regression_rmse_curve_density_label.png" style="width:100%; height:auto; display:block; margin:auto;"/>
+  </figure>
+
+  <figure style="display:inline-block; margin:10px; width:45%; max-width:520px; text-align:center;">
+    <img src="/images/mnist_logistic_nll_curve_density_label.png" style="width:100%; height:auto; display:block; margin:auto;"/>
+  </figure>
+</div>
 **Theoretical development**
 - **Convergence:** Proved Wasserstein-2 convergence of LMC-SPSA under noise and derived diminishing step-size schedules ensuring convergence.
 - **Sharper dimension dependence:** Improved dominant dimension dependence of the Wasserstein-2 error bound from quartic to quadratic.
@@ -32,16 +41,6 @@ Supervised by Prof. James C. Spall, Johns Hopkins University
 **Bayesian applications and empirical evaluation**
 - **Black-box Bayesian sampling:** Adapted LMC-SPSA to posterior sampling settings where gradients are unavailable and only posterior-density evaluations are accessible.
 - **Empirical evaluation:** Designed fixed-budget experiments on Bayesian MNIST 3-vs-8 classification and UCI Energy Efficiency regression, showing stronger predictive performance than random-walk Metropolis-Hastings and diagonal adaptive Metropolis.
-
-<div style="margin-left:20px; text-align:center;">
-  <figure style="display:inline-block; margin:10px; width:45%; max-width:520px; text-align:center;">
-    <img src="/images/energy_poly_regression_rmse_curve_density_label.png" style="width:100%; height:auto; display:block; margin:auto;"/>
-  </figure>
-
-  <figure style="display:inline-block; margin:10px; width:45%; max-width:520px; text-align:center;">
-    <img src="/images/mnist_logistic_nll_curve_density_label.png" style="width:100%; height:auto; display:block; margin:auto;"/>
-  </figure>
-</div>
 
 ---
 ### Downstream Adversarial Robustness of Frozen Foundation Models  
