@@ -12,7 +12,7 @@ My research insterest lies broadly in Stochastic approximation, Computational al
 *Jan 2025–Present*  
 Supervised by Prof. James C. Spall, Johns Hopkins University
 
-**Publications**
+**Publications and manuscripts**
 - <span style="font-weight:bold; text-decoration:underline;">Hongbo Li</span>, James C. Spall.  
   *Zeroth-Order Langevin Monte Carlo via SPSA under Noisy Function Measurements.*  
   Journal manuscript in final preparation.
