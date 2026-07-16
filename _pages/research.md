@@ -24,13 +24,13 @@ Supervised by Prof. James C. Spall, Johns Hopkins University
 **Theoretical development**
 - **Convergence:** Proved Wasserstein-2 convergence of LMC-SPSA under noise and derived diminishing step-size schedules ensuring convergence.
 - **Sharper dimension dependence:** Improved dominant dimension dependence of the Wasserstein-2 error bound from quartic to quadratic.
-- **Sharper oracle complexity:** Reduced noisy-oracle complexity relative to Roy et al.’s zeroth-order LMC method.
-- **Theory-guided shrinking schedule:** Derived coupled diminishing step-size and perturbation schedules for LMC-SPSA.
+- **Sharper oracle complexity:** Reduced noisy-oracle complexity relative to Roy et al.’s zeroth-order LMC method (Bernoulli, 2022), improving accuracy dependence from fourth order to second order.
+- **Theory-guided shrinking schedule:** Derived coupled diminishing step-size and perturbation schedules, giving practical tuning rules for LMC-SPSA.
 - **Budget-matched numerical validation:** Conducted oracle-call-matched experiments showing lower and more stable sampling errors.
 
 **Bayesian applications and empirical evaluation**
-- **Black-box Bayesian sampling:** Adapted LMC-SPSA to posterior sampling settings where gradients are unavailable.
-- **Empirical evaluation:** Designed fixed-budget experiments on Bayesian MNIST 3-vs-8 classification and UCI Energy Efficiency regression, showing stronger predictive performance than RWMH and diagonal adaptive Metropolis.
+- **Black-box Bayesian sampling:** Adapted LMC-SPSA to posterior sampling settings where gradients are unavailable and only posterior-density evaluations are accessible.
+- **Empirical evaluation:** Designed fixed-budget experiments on Bayesian MNIST 3-vs-8 classification and UCI Energy Efficiency regression, showing stronger predictive performance than random-walk Metropolis-Hastings and diagonal adaptive Metropolis.
 
 
 
