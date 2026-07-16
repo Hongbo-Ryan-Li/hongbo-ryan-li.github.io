@@ -59,9 +59,7 @@ Supervised by Prof. Yue Xing and Prof. Young-geun Kim, Michigan State University
 
 **Motivation & method:** Investigated whether label-free robust preprocessing and generated training data can improve downstream adversarial robustness in frozen foundation-model pipelines without full model fine-tuning.
 - **Synthetic-data evaluation pipeline:** Extended CIFAR-10 pipelines to support DDPM/DDIM synthetic data and synthetic-real mixtures across preprocessor training, linear-head training, and PGD-based robustness evaluation.
-- **Synthetic data quality analysis:** Designed CIFAR-10 ablation studies with DDPM/DDIM-generated datasets of varying quality, showing that synthetic data quality correlates with downstream robust accuracy, and identified an intermediate synthetic-real mixing ratio that outperforms fully real or fully synthetic data.
-- **Synthetic data quality analysis:** Designed CIFAR-10 ablation studies with DDPM/DDIM-generated datasets of varying quality, showing that synthetic data quality correlates with downstream robust accuracy, and identified an intermediate synthetic-real mixing ratio that outperforms fully real or fully synthetic data.
-- **Wasserstein proof refinement:** Refined the downstream adversarial-loss proof by reducing the conditional Wasserstein term to clean–adversarial encoder displacement, and derived a lower-bound interpretation via optimal transport between aggregated latent distributions.
+- **Synthetic data quality analysis:** Designed CIFAR-10 ablation studies with DDPM/DDIM-generated datasets of varying quality, showing that synthetic data quality correlates with downstream robust accuracy, and identified an intermediate synthetic-real mixing ratio that outperforms fully real data.
 - **Wasserstein proof refinement:** Refined the downstream adversarial-loss proof by reducing the conditional Wasserstein term to clean–adversarial encoder displacement, and derived a lower-bound interpretation via optimal transport between aggregated latent distributions.
 ---
 
