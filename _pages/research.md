@@ -27,7 +27,7 @@ Manuscript under review, 2026.
     <img src="/images/jan 24 average simulation.png" style="width:100%; height:auto; display:block; margin:auto;"/>
   </figure>
 </div>
-  - **Motivation & method:** Bridged gradient-based samplers and gradient-inaccessible settings in practice (simulation- based inference, model-free reinforcement learning, and stochastic control) by proposing Langevin Monte Carlo- Simultaneous Perturbation Stochastic Approximation (LMC-SPSA) in noisy settings-gradient-free Langevin sampler with only two noisy function queries per iteration (dimension-independent)
+  - **Motivation & method:** Bridged gradient-based samplers and gradient-inaccessible settings in practice (simulation- based inference, model-free reinforcement learning, and stochastic control) by proposing Langevin Monte Carlo-Simultaneous Perturbation Stochastic Approximation (LMC-SPSA) in noisy settings-gradient-free Langevin sampler with only two noisy function queries per iteration (dimension-independent)
 **Theoretical development:** 
   - **Convergence:** Proved Wasserstein-2 convergence of LMC-SPSA under noise and resolved open step size question by deriving diminishing-step size window ensuring convergence, extending prior constant-step size analysis
   - **Sharper dimension dependence:** IImproved theoretical dominant dimension dependence of the Wasserstein-2 error bound from quartic to quadratic, with numerical results supporting the theoretical scaling
