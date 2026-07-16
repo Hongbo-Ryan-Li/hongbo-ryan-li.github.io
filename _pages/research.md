@@ -35,15 +35,11 @@ Supervised by Prof. James C. Spall, Johns Hopkins University
 
 <div style="margin-left:20px; text-align:center;">
   <figure style="display:inline-block; margin:10px; width:45%; max-width:520px; text-align:center;">
-    <img src="/images/jan 24,roy-spsa 1.png" style="width:100%; height:auto; display:block; margin:auto;"/>
+    <img src="/images/energy_poly_regression_rmse_curve_density_label.png" style="width:100%; height:auto; display:block; margin:auto;"/>
   </figure>
 
   <figure style="display:inline-block; margin:10px; width:45%; max-width:520px; text-align:center;">
-    <img src="/images/Jan 24 roy-spsa 3.png" style="width:100%; height:auto; display:block; margin:auto;"/>
-  </figure>
-  
-  <figure style="display:inline-block; margin:10px; width:45%; max-width:520px; text-align:center;">
-    <img src="/images/jan 24 average simulation.png" style="width:100%; height:auto; display:block; margin:auto;"/>
+    <img src="/images/mnist_logistic_nll_curve_density_label.png" style="width:100%; height:auto; display:block; margin:auto;"/>
   </figure>
 </div>
 
