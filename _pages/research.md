@@ -61,8 +61,8 @@ Supervised by Prof. Yue Xing and Prof. Young-geun Kim, Michigan State University
 - **Synthetic-data evaluation pipeline:** Extended CIFAR-10 pipelines to support DDPM/DDIM synthetic data and synthetic-real mixtures across preprocessor training, linear-head training, and PGD-based robustness evaluation.
 - **Synthetic data quality analysis:** Designed CIFAR-10 ablation studies with DDPM/DDIM-generated datasets of varying quality, showing that synthetic data quality correlates with downstream robust accuracy, and identified an intermediate synthetic-real mixing ratio that outperforms fully real data.
 - **Wasserstein proof refinement:** Refined the downstream adversarial-loss proof by reducing the conditional Wasserstein term to clean–adversarial encoder displacement, and derived a lower-bound interpretation via optimal transport between aggregated latent distributions.
+  
 ---
-
 ### Fine-tuning FinBERT with Few-Shot Weak Supervision for Financial News Sentiment
 *Aug 2024--Feb 2025*  
 Supervised by Prof. Helyette Geman, Johns Hopkins University
