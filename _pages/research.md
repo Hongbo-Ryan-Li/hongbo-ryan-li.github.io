@@ -39,33 +39,6 @@ Supervised by Prof. James C. Spall, Johns Hopkins University
   </figure>
 </div>
 
-<style>
-.figure-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 20px;
-  width: 90%;
-  max-width: 1080px;
-  margin: 20px auto;
-}
-
-.figure-grid figure {
-  margin: 0;
-  text-align: center;
-}
-
-.figure-grid .figure-main {
-  grid-column: 1 / -1;
-  width: 75%;
-  justify-self: center;
-}
-
-.figure-grid img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
- 
 **Theoretical development**
 - **Convergence:** Proved Wasserstein-2 convergence of LMC-SPSA under noise and derived diminishing step-size schedules ensuring convergence.
 - **Sharper dimension dependence:** Improved dominant dimension dependence of the Wasserstein-2 error bound from quartic to quadratic.
