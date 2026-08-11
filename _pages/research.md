@@ -28,11 +28,6 @@ Supervised by Prof. James C. Spall, Johns Hopkins University
     <img src="/images/feb-22-msebig.png" alt="MSE comparison">
   </figure>
 </div>
-<div class="figure-grid">
-  <figure style="display:inline-block; margin:10px; width:90%; max-width:520px; text-align:center;"> 
-    <img src="/images/feb-22-msebig.png" style="width:100%; height:auto; display:block; margin:auto;"/> 
-  </figure>
-</div>
 
 **Theoretical development**
 - **Convergence:** Proved Wasserstein-2 convergence of LMC-SPSA under noise and derived diminishing step-size schedules ensuring convergence.
