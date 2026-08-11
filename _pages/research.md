@@ -14,12 +14,13 @@ Supervised by Prof. James C. Spall, Johns Hopkins University
 
 **Publications and manuscripts**
 - <span style="font-weight:bold; text-decoration:underline;">Hongbo Li</span>, James C. Spall.  
-  *Zeroth-Order Langevin Monte Carlo via SPSA under Noisy Function Measurements.*  
+  *Zeroth-Order Langevin Monte Carlo via SPSA under Noisy Function Measurements.*
+  Preprint, arXiv:2608.07837, 2026. https://arxiv.org/abs/2608.07837.
   Journal manuscript in final preparation.
 
 - <span style="font-weight:bold; text-decoration:underline;">Hongbo Li</span>, James C. Spall. 
   *Zeroth-Order Langevin Sampling for Bayesian Applications.*  
-  Manuscript under review, 2026.
+  Accepted at the 4th IEEE International Conference on Artificial Intelligence, Blockchain and Internet of Things (AIBThings), 2026.
   
 **Motivation & method:** Bridged gradient-based samplers and gradient-inaccessible settings in practice (simulation- based inference, model-free reinforcement learning, and stochastic control) by proposing Langevin Monte Carlo-Simultaneous Perturbation Stochastic Approximation (LMC-SPSA) in noisy settings-gradient-free Langevin sampler with only two noisy function queries per iteration (dimension-independent)
 <div style="margin-left:20px; text-align:center;">
@@ -50,7 +51,7 @@ Supervised by Prof. Yue Xing and Prof. Young-geun Kim, Michigan State University
 **Publications and manuscripts**
 - Meiqi Liu, Zhuoqun Huang, <span style="font-weight:bold; text-decoration:underline;" >Hongbo Li</span>, Young-geun Kim, and Yue Xing. 
   *How to Enhance Downstream Adversarial Robustness (Almost) Without Touching the Pre-trained Foundation Model?*  
-  Manuscript under review, 2026.
+  Manuscript in preparation.
 
 **Motivation & method:** Investigated whether label-free robust preprocessing and generated training data can improve downstream adversarial robustness in frozen foundation-model pipelines without full model fine-tuning.
 - **Synthetic-data evaluation pipeline:** Extended CIFAR-10 pipelines to support DDPM/DDIM synthetic data and synthetic-real mixtures across preprocessor training, linear-head training, and PGD-based robustness evaluation.
