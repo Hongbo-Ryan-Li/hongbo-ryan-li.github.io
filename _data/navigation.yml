@@ -20,7 +20,7 @@ main:
     url: /files/Hongbo_Li-CV.pdf
 
   - title: "Talks & Presentations"
-  url: /presentations/
+    url: /presentations/
 
   - title: "Teaching"
     url: /teaching/  
