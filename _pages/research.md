@@ -23,19 +23,6 @@ Supervised by Prof. James C. Spall, Johns Hopkins University
   Accepted at the 4th IEEE International Conference on Artificial Intelligence, Blockchain and Internet of Things (AIBThings), 2026.
   
 **Motivation & method:** Bridged gradient-based samplers and gradient-inaccessible settings in practice (simulation- based inference, model-free reinforcement learning, and stochastic control) by proposing Langevin Monte Carlo-Simultaneous Perturbation Stochastic Approximation (LMC-SPSA) in noisy settings-gradient-free Langevin sampler with only two noisy function queries per iteration (dimension-independent)
-<div style="margin-left:20px; text-align:center;">
-  <figure style="display:inline-block; margin:10px; width:100%; max-width:520px; text-align:center;">
-    <img src="/images/feb-22-msebig.png" style="width:100%; height:auto; display:block; margin:auto;"/>
-  </figure>
- 
-  <figure style="display:inline-block; margin:10px; width:45%; max-width:520px; text-align:center;">
-    <img src="/images/energy_poly_regression_rmse_curve_density_label.png" style="width:100%; height:auto; display:block; margin:auto;"/>
-  </figure>
-
-  <figure style="display:inline-block; margin:10px; width:45%; max-width:520px; text-align:center;">
-    <img src="/images/mnist_logistic_nll_curve_density_label.png" style="width:100%; height:auto; display:block; margin:auto;"/>
-  </figure>
-</div>
 <div class="figure-grid">
   <figure class="figure-main">
     <img src="/images/feb-22-msebig.png" alt="MSE comparison">
@@ -78,6 +65,7 @@ Supervised by Prof. James C. Spall, Johns Hopkins University
   width: 100%;
   height: auto;
 }
+ 
 **Theoretical development**
 - **Convergence:** Proved Wasserstein-2 convergence of LMC-SPSA under noise and derived diminishing step-size schedules ensuring convergence.
 - **Sharper dimension dependence:** Improved dominant dimension dependence of the Wasserstein-2 error bound from quartic to quadratic.
