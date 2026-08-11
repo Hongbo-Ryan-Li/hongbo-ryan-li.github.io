@@ -24,7 +24,7 @@ Supervised by Prof. James C. Spall, Johns Hopkins University
   
 **Motivation & method:** Bridged gradient-based samplers and gradient-inaccessible settings in practice (simulation- based inference, model-free reinforcement learning, and stochastic control) by proposing Langevin Monte Carlo-Simultaneous Perturbation Stochastic Approximation (LMC-SPSA) in noisy settings-gradient-free Langevin sampler with only two noisy function queries per iteration (dimension-independent)
 <div style="margin-left:20px; text-align:center;">
-  <figure style="display:inline-block; margin:10px; width:45%; max-width:520px; text-align:center;">
+  <figure style="display:inline-block; margin:10px; width:90%; max-width:520px; text-align:center;">
     <img src="/images/feb-22-msebig.png" style="width:100%; height:auto; display:block; margin:auto;"/>
   </figure>
  
