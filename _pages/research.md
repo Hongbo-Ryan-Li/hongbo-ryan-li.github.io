@@ -27,15 +27,10 @@ Supervised by Prof. James C. Spall, Johns Hopkins University
   <figure class="figure-main">
     <img src="/images/feb-22-msebig.png" alt="MSE comparison">
   </figure>
-
-  <figure>
-    <img src="/images/energy_poly_regression_rmse_curve_density_label.png"
-         alt="Energy regression RMSE">
-  </figure>
-
-  <figure>
-    <img src="/images/mnist_logistic_nll_curve_density_label.png"
-         alt="MNIST logistic regression NLL">
+</div>
+<div class="figure-grid">
+  <figure style="display:inline-block; margin:10px; width:90%; max-width:520px; text-align:center;"> 
+    <img src="/images/feb-22-msebig.png" style="width:100%; height:auto; display:block; margin:auto;"/> 
   </figure>
 </div>
 
