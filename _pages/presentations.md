@@ -1,6 +1,6 @@
 ---
 permalink: /presentations/
-title: "Presentations"
+title: "Talks & Presentations"
 layout: archive
 author_profile: true
 ---
