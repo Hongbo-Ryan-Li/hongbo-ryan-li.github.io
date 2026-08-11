@@ -1,22 +1,29 @@
 ---
-permalink: /blog/
-title: "My Blog"
+permalink: /presentations/
+title: "Presentations"
 layout: archive
 author_profile: true
-
 ---
 
-Welcome to my blog! I’ll be posting some fun and interesting math problems here, along with my thoughts on different math topics. If you spot any mistakes, please feel free to reach out—I’d greatly appreciate it!
+### IEEE AIBThings 2026
 
-### Some fun problems
+**Central Michigan University** · Mount Pleasant, MI · September 2026  
+*Upcoming presentation:* “Zeroth-Order Langevin Sampling for Bayesian Applications”
 
-1.<a href="/blog/minimum_black_cells/" style="text-decoration: none; border-bottom: 1px solid;">
-  Minimum black cells to fill an \\( n \times n \\) grid
-</a>
-<span style="color: gray;"> --- 9/28/2025</span>
+### LAMP 2026 Workshop
 
+**Toyota Technological Institute at Chicago** · Chicago, IL · August 6–7, 2026  
+*Poster presentation:* “Two Evaluations per Step: LMC-SPSA for Black-Box Bayesian Sampling”
 
+### Statistics and Data Science Workshop
 
+**Universidad de los Andes** · Bogotá, Colombia · December 2025  
+*Presentation:* “Zeroth-Order Langevin Monte Carlo via SPSA under Noisy Function Measurements”
+
+### Financial Mathematics Seminar
+
+**Johns Hopkins University** · Baltimore, MD · [Month Year]  
+*Research presentation:* “[Presentation Title]”
 
 
 
