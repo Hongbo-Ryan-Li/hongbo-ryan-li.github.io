@@ -19,6 +19,9 @@ main:
     #url: /files/final-26Fall-PhD-Hongbo Li-CV.pdf
     url: /files/Hongbo_Li-CV.pdf
 
+  - title: "Talks & Presentations"
+  url: /presentations/
+
   - title: "Teaching"
     url: /teaching/  
     
