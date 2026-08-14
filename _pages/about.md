@@ -14,7 +14,7 @@ I am interested in developing efficient and provably effective methods for stati
 
 ## Research Highlights
 
-I am excited to share my recent work on **LMC-SPSA under noisy measurements**, a query-efficient zeroth-order Langevin Monte Carlo method for sampling under noisy function measurements. The method requires only two function evaluations per iteration and comes with non-asymptotic Wasserstein convergence, asymptotic convergence, and zeroth-order query-complexity guarantees.
+I am excited to share my recent work on **LMC-SPSA under noisy measurements**, a query-efficient zeroth-order Langevin Monte Carlo method for sampling with SPSA gradient estimator. The method requires only two function evaluations per iteration and comes with non-asymptotic Wasserstein convergence, asymptotic convergence, and zeroth-order query-complexity guarantees.
 
 - [**Zeroth-Order Langevin Monte Carlo via SPSA under Noisy Function Measurements**](https://arxiv.org/abs/2608.07837)
   - **Hongbo Li** and James C. Spall
