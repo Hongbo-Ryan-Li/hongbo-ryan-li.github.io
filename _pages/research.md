@@ -14,7 +14,7 @@ Supervised by Prof. James C. Spall, Johns Hopkins University
 
 **Publications and manuscripts**
 - <span style="font-weight:bold; text-decoration:underline;">Hongbo Li</span>, James C. Spall.
-  [Zeroth-Order Langevin Monte Carlo via SPSA under Noisy Function Measurements.]([https://sites.google.com/view/james-spall](https://arxiv.org/abs/2608.07837))
+  [Zeroth-Order Langevin Monte Carlo via SPSA under Noisy Function Measurements.](https://arxiv.org/abs/2608.07837)
   *Zeroth-Order Langevin Monte Carlo via SPSA under Noisy Function Measurements.*
   Preprint, arXiv:2608.07837, 2026. https://arxiv.org/abs/2608.07837.
   Journal manuscript in final preparation.
