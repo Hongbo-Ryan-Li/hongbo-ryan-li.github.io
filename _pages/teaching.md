@@ -9,6 +9,7 @@ author_profile: true
 - **Course:** STT 200 (Statistical Methods)
 - **Role:** Graduate Teaching Assistant (recitations, office hours, grading)
 
+{% comment %}
 ## Teaching Demo Clips
 Below are short clips of my teaching experience, all with my students' agreement. Happy to hear any advice on the way of my teaching!
 
@@ -38,3 +39,4 @@ Below are short clips of my teaching experience, all with my students' agreement
 
   
 </div>
+{% endcomment %}
