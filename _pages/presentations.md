@@ -22,8 +22,8 @@ author_profile: true
 
 ### Financial Mathematics Seminar
 
-**Johns Hopkins University** · Baltimore, MD · [Month Year]  
-*Research presentation:* “[Presentation Title]”
+**Johns Hopkins University** · Baltimore, MD · October 2024  
+*Research presentation:* “Presentation for summer intern as a Quantitative Researcher”
 
 
 
