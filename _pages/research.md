@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-My research insterest lies broadly in Stochastic approximation, Computational algorithms in optimization, Monte Carlo methods, Statistical machine learning, Reinforcement learning, and Bayesian computation
+My research insterest lies broadly in Stochastic approximation, Monte Carlo methods, optimization, Statistical machine learning, and Reinforcement learning.
 
 ### Zeroth-Order Langevin Monte Carlo via SPSA under Noisy Function Measurements  
 *Jan 2025–Present*  
