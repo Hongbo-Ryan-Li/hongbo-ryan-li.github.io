@@ -19,8 +19,8 @@ Supervised by Prof. James C. Spall, Johns Hopkins University
   Journal manuscript in final preparation.
 
 - <span style="font-weight:bold; text-decoration:underline;">Hongbo Li</span>, James C. Spall. 
-  *Zeroth-Order Langevin Sampling for Bayesian Applications.*  
-  Accepted at the 4th IEEE International Conference on Artificial Intelligence, Blockchain and Internet of Things (AIBThings), 2026.
+  [Zeroth-Order Langevin Sampling for Bayesian Classification and Regression.](https://ieeexplore.ieee.org/document/11771235)
+  In Proceedings of the 2026 IEEE 4th International Conference on Artificial Intelligence, Blockchain, and Internet of Things (AIBThings), pp. 1–5, 2026. DOI: 10.1109/AIBThings71029.2026.11771235.
   
 **Motivation & method:** Bridged gradient-based samplers and gradient-inaccessible settings in practice (simulation- based inference, model-free reinforcement learning, and stochastic control) by proposing Langevin Monte Carlo-Simultaneous Perturbation Stochastic Approximation (LMC-SPSA) in noisy settings-gradient-free Langevin sampler with only two noisy function queries per iteration (dimension-independent)
 <div class="figure-grid">
